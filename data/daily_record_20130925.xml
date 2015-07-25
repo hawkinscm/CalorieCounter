@@ -1,0 +1,16 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="FULLbar Peanut Butter Crunch">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>13.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

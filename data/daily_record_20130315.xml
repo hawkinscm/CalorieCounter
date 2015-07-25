@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Banana Large (8&quot;-8 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="FRESH Salad Kit Chef Salad">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Romaine Salad">
+			<Amount>2.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Cutie California Clementine orange">
+			<Amount>0.5</Amount>
+			<Unit>FRUIT</Unit>
+		</Ingredient>
+		<Ingredient Name="Cheetos">
+			<Amount>21.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="FRESH Salad Kit Santa Fe Style Ckn">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Homemade Icecream">
+			<Amount>1.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Ocean Wave Popcorn Shrimp">
+			<Amount>15.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

@@ -1,0 +1,32 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Calories">
+			<Amount>5.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>2.0</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Russet Potaotes">
+			<Amount>1.0</Amount>
+			<Unit>POTATOE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>4.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Cutie California Clementine orange">
+			<Amount>1.0</Amount>
+			<Unit>FRUIT</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

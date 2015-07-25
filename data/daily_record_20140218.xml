@@ -1,0 +1,20 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Green Drink Leftover">
+			<Amount>2.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>4.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Cheeseburger Mac">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

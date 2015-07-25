@@ -1,0 +1,20 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Jolly Rancher SF">
+			<Amount>1.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Honey Grahams">
+			<Amount>0.75</Amount>
+			<Unit>CRACKER</Unit>
+		</Ingredient>
+		<Ingredient Name="Kraft Jet-Puffed mini Marshmellows">
+			<Amount>0.67</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Frigo Mozzarella String Cheese">
+			<Amount>1.0</Amount>
+			<Unit>STICK</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

@@ -1,0 +1,24 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Protein Oatmeal cookies">
+			<Amount>2.0</Amount>
+			<Unit>COOKIE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Light Yorgurt">
+			<Amount>6.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>1.0</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>4.5</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>5.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

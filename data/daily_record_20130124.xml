@@ -1,0 +1,40 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Meduim (7&quot;-7 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Protein Meal Bar Choco Chip">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="Laughing Cow Crmy Swiss">
+			<Amount>2.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+		<Ingredient Name="Land O&apos; Frost Premium Old Fashioned Cooked Ham Slices">
+			<Amount>5.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>1.0</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Hershey&apos;s Milk Chocolate Chips">
+			<Amount>4.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="Frigo Mozzarella String Cheese">
+			<Amount>2.0</Amount>
+			<Unit>STICK</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Honey Grahams">
+			<Amount>5.0</Amount>
+			<Unit>CRACKER</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

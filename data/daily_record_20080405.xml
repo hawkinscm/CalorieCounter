@@ -1,0 +1,52 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Krusteaz Light &amp; Crispy Belgian Waffles">
+			<Amount>0.25</Amount>
+			<Unit>WAFFLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Log Cabin Sugar Free Syrup">
+			<Amount>0.13</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+			<Amount>1.0</Amount>
+			<Unit>EGG</Unit>
+		</Ingredient>
+		<Ingredient Name="Strogenoff / Sauce">
+			<Amount>0.2</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Wada Farms Idaho Potatoes">
+			<Amount>1.0</Amount>
+			<Unit>POTATOE</Unit>
+		</Ingredient>
+		<Ingredient Name="Taco Seasoned Ground Turkey">
+			<Amount>2.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Sour Cream">
+			<Amount>2.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="Romaine Lettuce">
+			<Amount>0.5</Amount>
+			<Unit>LEAF</Unit>
+		</Ingredient>
+		<Ingredient Name="Ready Pac Baby Spinach">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh 1 Tomatoes">
+			<Amount>0.5</Amount>
+			<Unit>TOMATO</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

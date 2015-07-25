@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Porkupine meatballs">
+			<Amount>0.33</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Rice">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.3</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.2</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Ready Pac Baby Spinach">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

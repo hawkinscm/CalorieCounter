@@ -1,0 +1,24 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Light Yorgurt">
+			<Amount>6.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Meduim (7&quot;-7 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Strawberry Medium (1 1/4&quot; dia.)">
+			<Amount>8.0</Amount>
+			<Unit>STRAWBERRY</Unit>
+		</Ingredient>
+		<Ingredient Name="Body Fortress Choco Whey Protein">
+			<Amount>0.5</Amount>
+			<Unit>SCOOP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

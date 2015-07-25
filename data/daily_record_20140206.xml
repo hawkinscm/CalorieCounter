@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Romaine Lettuce">
+			<Amount>3.0</Amount>
+			<Unit>LEAF</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Fresh Spinach">
+			<Amount>3.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>4.0</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Mandarin Oranges canned">
+			<Amount>1.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Frozen Strawberries">
+			<Amount>3.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

@@ -1,0 +1,40 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Lasagna or Manicotti">
+			<Amount>0.1</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Peas and Carrots">
+			<Amount>0.67</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Light Yorgurt">
+			<Amount>6.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>1.0</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Michelina&apos;s LG 3 Cheese Ckn">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Crystal Light Drink Mix">
+			<Amount>1.0</Amount>
+			<Unit>PACKAGE</Unit>
+		</Ingredient>
+		<Ingredient Name="Equate Fiber Therapy SF Orange">
+			<Amount>2.0</Amount>
+			<Unit>TEASPOON</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

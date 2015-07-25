@@ -1,0 +1,48 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Rice, Ckn Flavored">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+			<Amount>2.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Peas and Carrots">
+			<Amount>0.67</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Raspberry Chscake Cereal Bar">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Homemade Mashed Potaotes">
+			<Amount>1.75</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>2.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>0.5</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>3.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

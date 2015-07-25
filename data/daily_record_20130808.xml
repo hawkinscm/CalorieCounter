@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Kale Leaf">
+			<Amount>2.5</Amount>
+			<Unit>LEAF</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Fresh Spinach">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>1.0</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Body Fortress Vanilla Whey Protein">
+			<Amount>1.0</Amount>
+			<Unit>SCOOP</Unit>
+		</Ingredient>
+		<Ingredient Name="Strawberry Medium (1 1/4&quot; dia.)">
+			<Amount>13.0</Amount>
+			<Unit>STRAWBERRY</Unit>
+		</Ingredient>
+		<Ingredient Name="Mandarin Oranges canned">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>1.0</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

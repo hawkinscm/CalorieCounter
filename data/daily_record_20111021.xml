@@ -1,0 +1,12 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Hershey&apos;s Milk Chocolate Chips">
+			<Amount>1.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="Blueberry Cereal Bar">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

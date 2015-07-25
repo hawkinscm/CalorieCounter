@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Protein Oatmeal cookies">
+			<Amount>1.0</Amount>
+			<Unit>COOKIE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Orange Medium 2 5/8 inches">
+			<Amount>1.25</Amount>
+			<Unit>FRUIT</Unit>
+		</Ingredient>
+		<Ingredient Name="Cabbage Soup">
+			<Amount>0.33</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Pop Weaver Light butter">
+			<Amount>7.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Orville Redenbacher&apos;s Smart Pop 94% FF">
+			<Amount>7.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

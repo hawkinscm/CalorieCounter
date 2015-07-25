@@ -1,0 +1,16 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Cheeseburger Mac">
+			<Amount>0.33</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh Corn on the Cob 1 ear">
+			<Amount>1.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.2</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

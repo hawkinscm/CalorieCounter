@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Kale Leaf">
+			<Amount>2.0</Amount>
+			<Unit>LEAF</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Fresh Spinach">
+			<Amount>2.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>1.0</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="WF Pineapple Tidbits">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Body Fortress Vanilla Whey Protein">
+			<Amount>0.5</Amount>
+			<Unit>SCOOP</Unit>
+		</Ingredient>
+		<Ingredient Name="Equate Fiber Therapy SF Orange">
+			<Amount>1.0</Amount>
+			<Unit>TEASPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>7.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

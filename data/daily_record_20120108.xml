@@ -1,0 +1,60 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Grapes, Seedless">
+			<Amount>20.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.6</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Blueberry Cereal Bar">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="Campbell&apos;s Cheesy Ckn">
+			<Amount>0.33</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Instant Brown Rice">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh Broccoli">
+			<Amount>6.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>2.0</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Dole Copped Romaine Salad">
+			<Amount>1.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Fresh Spinach">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>3.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Bar S Jumbo Hot Dogs chk, beef, pork">
+			<Amount>2.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="Hidden Valley FF Ranch">
+			<Amount>2.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

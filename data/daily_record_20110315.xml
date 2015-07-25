@@ -1,0 +1,40 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Protein Oatmeal cookies">
+			<Amount>1.0</Amount>
+			<Unit>COOKIE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Pear Halves 100% juice">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Cabbage Rolls">
+			<Amount>1.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="Cabbage Roll Sauce">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Rice, Ckn Flavored">
+			<Amount>1.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Rice">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Ckn Divan">
+			<Amount>0.25</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Pop Weaver Light butter">
+			<Amount>7.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

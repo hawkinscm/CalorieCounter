@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="FULLbar Peanut Butter Crunch">
+			<Amount>0.5</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>7.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Homemade Icecream">
+			<Amount>2.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Cheeseburger Mac">
+			<Amount>0.5</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>3.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

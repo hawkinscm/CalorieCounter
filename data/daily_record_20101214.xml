@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="FULLbar Peanut Butter Crunch">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="Wada Farms Idaho Potatoes">
+			<Amount>1.0</Amount>
+			<Unit>POTATOE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Mozzarells Chs Shredded">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>7.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Pocket Sandwich">
+			<Amount>1.0</Amount>
+			<Unit>SANDWICH</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.1</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

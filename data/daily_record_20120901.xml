@@ -1,0 +1,32 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Ckn Tetrizzini / Sauce">
+			<Amount>0.25</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Peas and Carrots">
+			<Amount>0.67</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Brummel &amp; Brown spread">
+			<Amount>3.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Extra Fluffy Pancake Mix">
+			<Amount>1.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Pure Canola Oil">
+			<Amount>1.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

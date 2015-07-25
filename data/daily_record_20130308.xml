@@ -1,0 +1,44 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Banana Meduim (7&quot;-7 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>1.0</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Romaine Salad">
+			<Amount>3.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Fresh Spinach">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh 1 Tomatoes">
+			<Amount>0.33</Amount>
+			<Unit>TOMATO</Unit>
+		</Ingredient>
+		<Ingredient Name="Lean Ground Beef 93/7">
+			<Amount>2.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.7</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Cheetos">
+			<Amount>21.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Cutie California Clementine orange">
+			<Amount>1.0</Amount>
+			<Unit>FRUIT</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

@@ -1,0 +1,60 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>1.5</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Body Fortress Vanilla Whey Protein">
+			<Amount>0.5</Amount>
+			<Unit>SCOOP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>1.5</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>1.0</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Frozen Red Raspberries">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Strawberry Medium (1 1/4&quot; dia.)">
+			<Amount>10.0</Amount>
+			<Unit>STRAWBERRY</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Crystal Light Drink Mix">
+			<Amount>1.0</Amount>
+			<Unit>PACKAGE</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Romaine Salad">
+			<Amount>3.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Fresh Spinach">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.5</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Meduim (7&quot;-7 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Swiss Shredded Chs">
+			<Amount>0.13</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Farmland Ham">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Jennie-O Turkey Ham">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

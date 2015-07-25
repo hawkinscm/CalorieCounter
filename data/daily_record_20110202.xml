@@ -1,0 +1,44 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Protein Oatmeal cookies">
+			<Amount>1.0</Amount>
+			<Unit>COOKIE</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>0.5</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>1.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Cheeseburger Mac">
+			<Amount>0.5</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Crystal Light Drink Mix">
+			<Amount>1.0</Amount>
+			<Unit>PACKAGE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Honeysuckle White Freshground Turkey (93/7)">
+			<Amount>2.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Stew">
+			<Amount>0.25</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>4.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Pop Weaver Light butter">
+			<Amount>7.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

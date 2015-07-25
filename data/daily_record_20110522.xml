@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Protein Oatmeal cookies">
+			<Amount>1.0</Amount>
+			<Unit>COOKIE</Unit>
+		</Ingredient>
+		<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+			<Amount>2.0</Amount>
+			<Unit>EGG</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>0.5</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Curried Ckn">
+			<Amount>0.3</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Rice">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Peas and Carrots">
+			<Amount>0.67</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

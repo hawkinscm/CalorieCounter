@@ -1,0 +1,40 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Popweaver Popcorn Bags (Butter)">
+			<Amount>14.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>5.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Green Drink Leftover">
+			<Amount>2.3</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Fresh Spinach">
+			<Amount>4.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Green Leaf Lettuce">
+			<Amount>4.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>3.5</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Mandarin Oranges canned">
+			<Amount>2.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Fruit Cocktail NSA">
+			<Amount>0.88</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Light Yorgurt">
+			<Amount>6.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

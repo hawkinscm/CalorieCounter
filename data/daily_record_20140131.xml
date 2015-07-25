@@ -1,0 +1,32 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Romaine Lettuce">
+			<Amount>2.0</Amount>
+			<Unit>LEAF</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Fresh Spinach">
+			<Amount>3.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>5.0</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Pear Halves 100% juice">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Wawona Fzn Mango, Papaya, Strawb &amp; Pineapple">
+			<Amount>3.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Mandarin Oranges canned">
+			<Amount>1.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>7.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

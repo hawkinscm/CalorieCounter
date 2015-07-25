@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+			<Amount>1.0</Amount>
+			<Unit>EGG</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>1.53</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.7</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="BLT">
+			<Amount>1.0</Amount>
+			<Unit>SANDWICH</Unit>
+		</Ingredient>
+		<Ingredient Name="Cheetos">
+			<Amount>21.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="FRESH Salad Kit Chef Salad">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

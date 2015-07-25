@@ -1,0 +1,24 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Protein Oatmeal cookies">
+			<Amount>2.0</Amount>
+			<Unit>COOKIE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Taco - 1 soft/salad">
+			<Amount>2.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Michelina&apos;s LG Creamy Rigatoni w/ Broccoli and Ckn">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

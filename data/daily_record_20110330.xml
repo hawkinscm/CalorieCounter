@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Protein Oatmeal Banana cookies">
+			<Amount>2.0</Amount>
+			<Unit>COOKIE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Orange Medium 2 5/8 inches">
+			<Amount>1.0</Amount>
+			<Unit>FRUIT</Unit>
+		</Ingredient>
+		<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+			<Amount>3.0</Amount>
+			<Unit>EGG</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+			<Amount>0.13</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="SL 100% Multi Grain 45 calories and delightful">
+			<Amount>2.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

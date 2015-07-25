@@ -1,0 +1,20 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Protein Oatmeal Peach cookies">
+			<Amount>1.0</Amount>
+			<Unit>COOKIE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Cabbage Soup">
+			<Amount>0.25</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

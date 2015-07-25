@@ -1,0 +1,12 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Calories">
+			<Amount>0.6</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

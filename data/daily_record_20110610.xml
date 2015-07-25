@@ -1,0 +1,32 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Apple">
+			<Amount>0.5</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Oven Baked Chicken">
+			<Amount>1.0</Amount>
+			<Unit>CHICKEN</Unit>
+		</Ingredient>
+		<Ingredient Name="Russet Potaotes">
+			<Amount>1.0</Amount>
+			<Unit>POTATOE</Unit>
+		</Ingredient>
+		<Ingredient Name="Brummel &amp; Brown spread">
+			<Amount>1.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>0.13</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

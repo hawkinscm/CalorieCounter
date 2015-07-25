@@ -1,0 +1,64 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Protein Meal Bar Choco Caramel">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Meduim (7&quot;-7 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Porkupine meatballs">
+			<Amount>0.33</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Cutie California Clementine orange">
+			<Amount>1.0</Amount>
+			<Unit>FRUIT</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Instant Brown Rice">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Romaine Salad">
+			<Amount>3.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Land O&apos; Frost Premium Old Fashioned Cooked Ham Slices">
+			<Amount>5.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Unsweetened Applesauce">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Kraft Free Ranch">
+			<Amount>2.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="Cheetos">
+			<Amount>8.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="Pudding">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Honey Grahams">
+			<Amount>1.0</Amount>
+			<Unit>CRACKER</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

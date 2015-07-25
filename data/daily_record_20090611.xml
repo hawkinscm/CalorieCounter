@@ -1,0 +1,32 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Unsweetened Applesauce">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Michelina&apos;s LG Creamy Parmesan Ckn">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Skinny Cow French Vanilla Truffle">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.1</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Pocket Sandwich">
+			<Amount>1.0</Amount>
+			<Unit>SANDWICH</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Crinkle Cut French Fries">
+			<Amount>15.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

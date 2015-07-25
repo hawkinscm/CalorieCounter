@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Equate Fiber Therapy SF Orange">
+			<Amount>1.0</Amount>
+			<Unit>TEASPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Frozen Red Raspberries">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Mandarin Oranges canned">
+			<Amount>0.57</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Mandarin Oranges canned">
+			<Amount>0.14</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Body Fortress Vanilla Whey Protein">
+			<Amount>1.0</Amount>
+			<Unit>SCOOP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

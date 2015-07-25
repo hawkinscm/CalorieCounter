@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV FF Milk">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Popweaver Popcorn Bags (Butter)">
+			<Amount>2.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Michelina&apos;s LG Creamy Parmesan Ckn">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Unsweetened Applesauce">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Taco Salad w/o chips">
+			<Amount>0.5</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="On the Border Tortilla Chips">
+			<Amount>9.0</Amount>
+			<Unit>CHIP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

@@ -1,0 +1,56 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV Whole Weat Bread">
+			<Amount>2.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+		<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+			<Amount>1.0</Amount>
+			<Unit>EGG</Unit>
+		</Ingredient>
+		<Ingredient Name="All Whites 100% Liquid Egg Whites">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Country Crock Light Spread Butter">
+			<Amount>1.6</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh 1 Tomatoes">
+			<Amount>0.5</Amount>
+			<Unit>TOMATO</Unit>
+		</Ingredient>
+		<Ingredient Name="Ready Pac Baby Spinach">
+			<Amount>0.8</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Mac &amp; Cheese">
+			<Amount>1.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Frozen Sweet Peas">
+			<Amount>0.67</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="BBQ Sauce">
+			<Amount>0.2</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+			<Amount>2.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Homemade Mashed Potaotes">
+			<Amount>0.17</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh Cauliflower">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

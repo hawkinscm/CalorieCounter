@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Taco - 1 soft/salad">
+			<Amount>2.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>1.5</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Light Yorgurt">
+			<Amount>6.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>1.0</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Homemade LP Bkfast">
+			<Amount>1.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Michelina&apos;s LG 3 Cheese Ckn">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

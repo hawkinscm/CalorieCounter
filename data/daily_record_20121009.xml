@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Strogenoff / Sauce">
+			<Amount>0.2</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Peas and Carrots">
+			<Amount>0.67</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Orange Medium 2 5/8 inches">
+			<Amount>1.5</Amount>
+			<Unit>FRUIT</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Light Yorgurt">
+			<Amount>6.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Michelina&apos;s LG Creamy Rigatoni w/ Broccoli and Ckn">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Kraft 100% Grated Parmesan Cheese">
+			<Amount>2.0</Amount>
+			<Unit>TEASPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>10.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

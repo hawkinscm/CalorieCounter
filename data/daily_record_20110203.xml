@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Apple">
+			<Amount>0.25</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Pizza">
+			<Amount>0.5</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Pop Weaver Light butter">
+			<Amount>7.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Pudding">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Honey Grahams">
+			<Amount>1.0</Amount>
+			<Unit>CRACKER</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

@@ -1,0 +1,48 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Strawberry Protein Shake">
+			<Amount>1.0</Amount>
+			<Unit>CONTAINER</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Unsweetened Applesauce">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh Cauliflower">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Creme Savers SF Chocolate &amp; Caramel">
+			<Amount>1.0</Amount>
+			<Unit>CANDIES</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>5.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Thin Spaghetti Whole Wheat &amp; Grain">
+			<Amount>2.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Hunts Garlic &amp; Herb Spaghetti Sauce">
+			<Amount>0.7</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Honeysuckle White Freshground Turkey (93/7)">
+			<Amount>2.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV 100% Parmesan Grated Cheese">
+			<Amount>3.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

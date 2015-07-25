@@ -1,0 +1,32 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Banana Meduim (7&quot;-7 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="FULLbar Choco Peanut Butter">
+			<Amount>0.5</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Mild flaky White Tilapia Fish Fillets">
+			<Amount>3.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Ocean Wave Popcorn Shrimp">
+			<Amount>10.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="Frigo Mozzarella String Cheese">
+			<Amount>1.0</Amount>
+			<Unit>STICK</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>3.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>2.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

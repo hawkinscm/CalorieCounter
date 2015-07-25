@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Marketside Fresh Spinach">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Kale Leaf">
+			<Amount>1.0</Amount>
+			<Unit>LEAF</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>1.0</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Strawberry Medium (1 1/4&quot; dia.)">
+			<Amount>3.0</Amount>
+			<Unit>STRAWBERRY</Unit>
+		</Ingredient>
+		<Ingredient Name="Mandarin Oranges canned">
+			<Amount>0.38</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="WF Pineapple Tidbits">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Honey Grahams">
+			<Amount>2.0</Amount>
+			<Unit>CRACKER</Unit>
+		</Ingredient>
+		<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+			<Amount>3.0</Amount>
+			<Unit>EGG</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

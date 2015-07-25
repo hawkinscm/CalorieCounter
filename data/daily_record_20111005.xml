@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Strawberry Cereal Bar">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Croissant Sausage, Egg, &amp; Chs Sandwich">
+			<Amount>1.0</Amount>
+			<Unit>SANDWICH</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Pot Pie">
+			<Amount>0.75</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Frigo Mozzarella String Cheese">
+			<Amount>0.5</Amount>
+			<Unit>STICK</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>1.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

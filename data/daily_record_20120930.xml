@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Campbell&apos;s Cheesy Ckn">
+			<Amount>0.2</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Rice">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>1.5</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Frigo Mozzarella String Cheese">
+			<Amount>1.0</Amount>
+			<Unit>STICK</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Italian Blend">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Land O&apos; Frost Premium Oven Roasted Turkey Slices">
+			<Amount>8.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

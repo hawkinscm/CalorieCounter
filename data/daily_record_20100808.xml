@@ -1,0 +1,24 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Campbell&apos;s Cheesy Ckn">
+			<Amount>0.17</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="Rice">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Dole Copped Romaine Salad">
+			<Amount>1.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh 1 Tomatoes">
+			<Amount>0.25</Amount>
+			<Unit>TOMATO</Unit>
+		</Ingredient>
+		<Ingredient Name="Hidden Valley FF Ranch">
+			<Amount>1.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

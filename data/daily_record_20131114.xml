@@ -1,0 +1,32 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Calories">
+			<Amount>0.5</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Slim Rite french vanilla shake mix">
+			<Amount>1.0</Amount>
+			<Unit>SCOOP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Taco Lettuce Wraps">
+			<Amount>7.0</Amount>
+			<Unit>LEAF</Unit>
+		</Ingredient>
+		<Ingredient Name="Laughing Cow Light Crmy Swiss">
+			<Amount>2.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>7.0</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

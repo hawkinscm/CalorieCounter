@@ -1,0 +1,32 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Land O&apos; Frost Premium Oven Roasted Turkey Slices">
+			<Amount>1.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+		<Ingredient Name="BBQ Sauce">
+			<Amount>0.25</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+			<Amount>2.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Russet Potaotes">
+			<Amount>1.0</Amount>
+			<Unit>POTATOE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Protein Oatmeal cookies">
+			<Amount>1.0</Amount>
+			<Unit>COOKIE</Unit>
+		</Ingredient>
+		<Ingredient Name="Orange Medium 2 5/8 inches">
+			<Amount>1.0</Amount>
+			<Unit>FRUIT</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

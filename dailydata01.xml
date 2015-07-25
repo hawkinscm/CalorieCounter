@@ -1,0 +1,10 @@
+<NutritionManager>
+	<DailyRecords>
+		<DailyRecord>
+			<Date>4/2/2008</Date>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/1/2008</Date>
+		</DailyRecord>
+	</DailyRecords>
+</NutritionManager>

@@ -1,0 +1,32 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Apple">
+			<Amount>0.5</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Croissant Sausage, Egg, &amp; Chs Sandwich">
+			<Amount>1.0</Amount>
+			<Unit>SANDWICH</Unit>
+		</Ingredient>
+		<Ingredient Name="Lasagna or Manicotti">
+			<Amount>2.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Light Whipped Topping">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Chocolate Delight Protien Snack Bar">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

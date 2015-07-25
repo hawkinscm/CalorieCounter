@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV 100% Whole Grain Quick Oats">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Pure Cane Sugar">
+			<Amount>3.0</Amount>
+			<Unit>TEASPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Unsweetened Applesauce">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+			<Amount>3.0</Amount>
+			<Unit>EGG</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.45</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Kroger Mozzarells Chs Shredded">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>0.5</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

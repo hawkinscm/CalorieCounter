@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV FF Milk">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Large (8&quot;-8 7/8&quot;)">
+			<Amount>0.5</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Creme Savers SF Strawberry and Creme">
+			<Amount>1.0</Amount>
+			<Unit>CANDIES</Unit>
+		</Ingredient>
+		<Ingredient Name="Dreyer&apos;s SF Fruit Bars">
+			<Amount>1.0</Amount>
+			<Unit>BAR</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Honey Grahams">
+			<Amount>0.25</Amount>
+			<Unit>CRACKER</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Mac &amp; Cheese">
+			<Amount>0.75</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

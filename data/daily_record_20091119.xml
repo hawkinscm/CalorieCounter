@@ -1,0 +1,28 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Pizza Dough">
+			<Amount>0.25</Amount>
+			<Unit>SERVING SIZE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Pizza Sauce">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh 1 Tomatoes">
+			<Amount>0.33</Amount>
+			<Unit>TOMATO</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Canned Pineapple Chunks">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.6</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

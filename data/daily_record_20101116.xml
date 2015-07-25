@@ -1,0 +1,12 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Pasta Roni pasta">
+			<Amount>1.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

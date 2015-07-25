@@ -1,0 +1,16 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV Fruit &amp; Cream Oatmeal Variety Pack ( Strw, Bue, Peach, Banana)">
+			<Amount>1.0</Amount>
+			<Unit>PACKAGE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>0.5</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

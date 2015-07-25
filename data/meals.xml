@@ -1,0 +1,1761 @@
+<Meals>
+	<Meal Name="Alfredo Sauce">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Neufchatel (cream) Cheese">
+				<Amount>3.0</Amount>
+				<Unit>POUND</Unit>
+			</Ingredient>
+			<Ingredient Name="Country Crock Light Spread Butter">
+				<Amount>4.0</Amount>
+				<Unit>FLUID OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Can Ckn 5 oz can">
+				<Amount>5.0</Amount>
+				<Unit>POUND</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Alfredo Sauce pkg">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV FF Milk">
+				<Amount>1.75</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Knorr alfredo sauce mix">
+				<Amount>1.0</Amount>
+				<Unit>PACKAGE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="BBQ Sauce">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="C &amp; H Brown Sugar">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Distilled White Vinegar">
+				<Amount>2.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Tomato Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Onion">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="BLT">
+		<Amount>1.0</Amount>
+		<Unit>PATTIE</Unit>
+		<Ingredients>
+			<Ingredient Name="Green Leaf Lettuce">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Fresh 1 Tomatoes">
+				<Amount>0.5</Amount>
+				<Unit>TOMATO</Unit>
+			</Ingredient>
+			<Ingredient Name="SL 100% Multi Grain 45 calories and delightful">
+				<Amount>2.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Whipped Dressing">
+				<Amount>1.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Turkey Bacon">
+				<Amount>2.0</Amount>
+				<Unit>SERVING SIZE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Bangers and Mash">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Hillshire Farm Polska Kielbasa">
+				<Amount>0.5</Amount>
+				<Unit>PACKAGE</Unit>
+			</Ingredient>
+			<Ingredient Name="Russet Potaotes">
+				<Amount>6.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Sour Cream">
+				<Amount>10.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Churn Gold butter">
+				<Amount>4.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Beef Gravy">
+		<Amount>1.0</Amount>
+		<Unit>BAR</Unit>
+		<Ingredients>
+			<Ingredient Name="Beef Bouillon">
+				<Amount>1.0</Amount>
+				<Unit>TEASPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>2.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Lean Ground Beef 93/7">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Buttercream Frosting">
+		<Amount>3.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="GV All-Veg Shortening">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Butter unsalted">
+				<Amount>8.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Confectioners Powdered Sugar">
+				<Amount>4.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Cabbage Roll Sauce">
+		<Amount>3.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Cream of Mushroom Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Tomato Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Cabbage Rolls">
+		<Amount>6.0</Amount>
+		<Unit>PIECE</Unit>
+		<Ingredients>
+			<Ingredient Name="Cabbage Leaf (large)">
+				<Amount>6.0</Amount>
+				<Unit>LEAF</Unit>
+			</Ingredient>
+			<Ingredient Name="Lean Ground Beef 93/7">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Rice">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Onion">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>1.0</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Tomato Soup">
+				<Amount>2.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>0.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Zucchini">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Cabbage Soup">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Fresh Cabbage, small head">
+				<Amount>1.0</Amount>
+				<Unit>PACKAGE</Unit>
+			</Ingredient>
+			<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+				<Amount>4.0</Amount>
+				<Unit>CARROT</Unit>
+			</Ingredient>
+			<Ingredient Name="Wada Farms Idaho Potatoes">
+				<Amount>3.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="Onion">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV 99% FF Chicken Broth">
+				<Amount>4.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Calzone Dough">
+		<Amount>1.0</Amount>
+		<Unit>OUNCE</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>1.0</Amount>
+				<Unit>TEASPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>8.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>0.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Evaporated Milk FF">
+				<Amount>24.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>2.0</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Calzones">
+		<Amount>8.0</Amount>
+		<Unit>PIECE</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>0.5</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Lean Ground Beef 93/7">
+				<Amount>0.5</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="calzone 2/3">
+				<Amount>8.0</Amount>
+				<Unit>PIECE</Unit>
+			</Ingredient>
+			<Ingredient Name="Laughing Cow crm chs spread">
+				<Amount>2.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Calzones small Ckn, and Moz chs">
+		<Amount>18.0</Amount>
+		<Unit>ROLL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Neufchatel (cream) Cheese">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Laughing Cow Light Crmy Swiss">
+				<Amount>4.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Terrel&apos;s Country Roll &amp; Scone Dough">
+				<Amount>18.0</Amount>
+				<Unit>ROLL</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Calzones small beef &amp; chdr chs">
+		<Amount>18.0</Amount>
+		<Unit>ROLL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Neufchatel (cream) Cheese">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Laughing Cow Light Crmy Swiss">
+				<Amount>4.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Lean Ground Beef 93/7">
+				<Amount>8.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Terrel&apos;s Country Roll &amp; Scone Dough">
+				<Amount>18.0</Amount>
+				<Unit>ROLL</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Campbell&apos;s Cheesy Ckn">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Cream of Chicken Soup">
+				<Amount>3.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Sour Cream">
+				<Amount>6.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Campbell&apos;s Cheddar Cheese Soup">
+				<Amount>1.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Cheeseburger Mac">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Hunts Garlic &amp; Herb Spaghetti Sauce">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Whole Wheat Rotini">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Jennie-O 90/10 Ground Turkey">
+				<Amount>2.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Chicken Enchiladas">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV FF Milk">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Sour Cream">
+				<Amount>15.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Cream Chs">
+				<Amount>8.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Flour Tortillas">
+				<Amount>8.0</Amount>
+				<Unit>TORTILA</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Cream of Chicken Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Mushrooms Canned">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Chopped Green Chiles">
+				<Amount>8.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Chicken Gravy for Hawiian Haystacks">
+		<Amount>1.25</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Western Family Turkey Gravy Mix">
+				<Amount>8.0</Amount>
+				<Unit>TEASPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Ckn Divan">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.75</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Frozen Brocoli Florets">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Cream of Chicken Soup">
+				<Amount>1.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV 100% Parmesan Grated Cheese">
+				<Amount>0.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Ckn Strips">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Ckn Tetrizzini / Sauce">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.75</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Cream of Chicken Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Crescent Hot Sandwiches">
+		<Amount>30.0</Amount>
+		<Unit>SANDWICH</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Crescent Rolls">
+				<Amount>8.0</Amount>
+				<Unit>ROLL</Unit>
+			</Ingredient>
+			<Ingredient Name="Laughing Cow crm chs spread">
+				<Amount>1.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Land O&apos; Frost Premium Old Fashioned Cooked Ham Slices">
+				<Amount>4.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+			<Ingredient Name="Land O&apos; Frost Premium Oven Roasted Turkey Slices">
+				<Amount>4.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Curried Ckn">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Kraft Light Miracle Whip Dressing">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Cream of Chicken Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Foil Dinner">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Onion">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Wada Farms Idaho Potatoes">
+				<Amount>1.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+				<Amount>1.0</Amount>
+				<Unit>CARROT</Unit>
+			</Ingredient>
+			<Ingredient Name="Honeysuckle White Freshground Turkey (93/7)">
+				<Amount>2.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Fruit Crisp">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="C &amp; H Brown Sugar">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV 100% Whole Grain Quick Oats">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Butter unsalted">
+				<Amount>8.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Apple">
+				<Amount>4.0</Amount>
+				<Unit>APPLE</Unit>
+			</Ingredient>
+			<Ingredient Name="Calories">
+				<Amount>2.0</Amount>
+				<Unit>MISC</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="GV Cheesy Rice, Brocoli, &amp; Carrots">
+		<Amount>2.5</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Cheddar &amp; Broccoli Rice &amp; Sauce">
+				<Amount>2.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Crinkle Cut Carrots">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="GV Chicken Gravy">
+		<Amount>1.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Chicken Gravy Mix">
+				<Amount>8.0</Amount>
+				<Unit>TEASPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>2.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="GV Fettuccini Alfredo">
+		<Amount>2.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Fettuccini Alfredo Pasta &amp; Sauce">
+				<Amount>2.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="GV Mac &amp; Cheese">
+		<Amount>3.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Mac &amp; Cheese Unprepared">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Blue Bonnet Margarine">
+				<Amount>0.5</Amount>
+				<Unit>STICK OF BUTTER</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Ham Cheese and Potato Casserol">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Farmland Ham">
+				<Amount>0.67</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Jennie-O Turkey Ham">
+				<Amount>0.75</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Cream of Mushroom Soup">
+				<Amount>1.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Russet Potaotes">
+				<Amount>5.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="Green Onions">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Hamburger">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Hamburger Buns">
+				<Amount>1.0</Amount>
+				<Unit>BUN</Unit>
+			</Ingredient>
+			<Ingredient Name="Kraft Light Miracle Whip Dressing">
+				<Amount>2.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.28</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Marketside Fresh Spinach">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Hawiian Haystacks">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Rice">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>0.13</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="La Choy Cow Mein Noodles">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Chicken Gravy for Hawiian Haystacks">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="WF Pineapple Tidbits">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Homemade Icecream">
+		<Amount>15.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>2.1</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>14.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Homemade LP Bkfast">
+		<Amount>18.0</Amount>
+		<Unit>PIECE</Unit>
+		<Ingredients>
+			<Ingredient Name="Calzone Dough">
+				<Amount>0.33</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Mushrooms Canned">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Bell Pepper large">
+				<Amount>1.0</Amount>
+				<Unit>VEGGIE</Unit>
+			</Ingredient>
+			<Ingredient Name="Jennie-O Trky Bkfast Sausage">
+				<Amount>15.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>6.0</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Laughing Cow crm chs spread">
+				<Amount>3.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Homemade Mashed Potaotes">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Russet Potaotes">
+				<Amount>1.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.06</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Churn Gold butter">
+				<Amount>1.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Homemade Strawberry Jam">
+		<Amount>13.0</Amount>
+		<Unit>JAR</Unit>
+		<Ingredients>
+			<Ingredient Name="Strawberry pureed">
+				<Amount>5.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>7.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Homemade cream of (blank) soup">
+		<Amount>3.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="My Favorite Flavors Instant Nonfat Dry Milk">
+				<Amount>2.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Calories">
+				<Amount>3.66</Amount>
+				<Unit>MISC</Unit>
+			</Ingredient>
+			<Ingredient Name="Calories">
+				<Amount>0.06</Amount>
+				<Unit>MISC</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Hunts spaghetti sauce">
+		<Amount>1.5</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="Hunts Garlic &amp; Herb Spaghetti Sauce">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Lean Ground Beef 93/7">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Krusteaz Light &amp; Crispy Belgian Waffles">
+		<Amount>4.0</Amount>
+		<Unit>WAFFLE</Unit>
+		<Ingredients>
+			<Ingredient Name="Krusteaz Light &amp;Crispy Belgian Waffle Mix">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>1.0</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Canola Oil">
+				<Amount>1.5</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Unsweetened Applesauce">
+				<Amount>1.5</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="M1">
+		<Amount>2.0</Amount>
+		<Unit>APPLE</Unit>
+		<Ingredients>
+			<Ingredient Name="B2">
+				<Amount>5.0</Amount>
+				<Unit>TOMATO</Unit>
+			</Ingredient>
+			<Ingredient Name="Bangers and Mash">
+				<Amount>1.0</Amount>
+				<Unit>MEAL</Unit>
+			</Ingredient>
+			<Ingredient Name="A1">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Alfredo Sauce pkg">
+				<Amount>1.0</Amount>
+				<Unit>MEAL</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="M2">
+		<Amount>3.0</Amount>
+		<Unit>SERVING SIZE</Unit>
+		<Ingredients>
+			<Ingredient Name="Alfredo Sauce">
+				<Amount>1.0</Amount>
+				<Unit>MEAL</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Meal">
+		<Amount>1.0</Amount>
+		<Unit>SERVING SIZE</Unit>
+		<Ingredients>
+			<Ingredient Name="Killer Candy">
+				<Amount>5.0</Amount>
+				<Unit>SERVING SIZE</Unit>
+			</Ingredient>
+			<Ingredient Name="Killer Candy 2">
+				<Amount>1.0</Amount>
+				<Unit>SERVING SIZE</Unit>
+			</Ingredient>
+			<Ingredient Name="Creme Savers SF Chocolate &amp; Caramel">
+				<Amount>5.0</Amount>
+				<Unit>CANDIES</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Toasted Rice Cereal">
+				<Amount>5.0</Amount>
+				<Unit>TEASPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Mediteranean Wheels">
+		<Amount>40.0</Amount>
+		<Unit>ROLL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Cream Cheese">
+				<Amount>8.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Land O&apos; Frost Premium Old Fashioned Cooked Ham Slices">
+				<Amount>8.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Crescent Rolls">
+				<Amount>16.0</Amount>
+				<Unit>ROLL</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Mom&apos;s Pancakes">
+		<Amount>12.0</Amount>
+		<Unit>PANCAKE</Unit>
+		<Ingredients>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>2.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>0.13</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>3.0</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Unsweetened Applesauce">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Oven Baked Chicken">
+		<Amount>2.0</Amount>
+		<Unit>CHICKEN</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="PB Choco bars">
+		<Amount>24.0</Amount>
+		<Unit>BAR</Unit>
+		<Ingredients>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>1.0</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Canola Oil">
+				<Amount>3.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="BC PB Cookie Mix">
+				<Amount>54.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Pasta Roni pasta">
+		<Amount>4.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="Pasta Roni Parmesan Cheese">
+				<Amount>4.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Blue Bonnet Margarine">
+				<Amount>2.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Pie (Pudding)">
+		<Amount>1.0</Amount>
+		<Unit>PAN</Unit>
+		<Ingredients>
+			<Ingredient Name="GV FF Milk">
+				<Amount>1.75</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Honey Grahams">
+				<Amount>9.0</Amount>
+				<Unit>CRACKER</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Brummel &amp; Brown spread">
+				<Amount>6.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Light Whipped Topping">
+				<Amount>10.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Pudding any Flavor">
+				<Amount>1.0</Amount>
+				<Unit>PACKAGE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Pizza">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Greek Pita 100 % Whole Wheat">
+				<Amount>1.0</Amount>
+				<Unit>TORTILA</Unit>
+			</Ingredient>
+			<Ingredient Name="Laughing Cow Light Crmy Swiss">
+				<Amount>1.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+			<Ingredient Name="WF Pineapple Tidbits">
+				<Amount>0.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Land O&apos; Frost Premium Oven Roasted Turkey Slices">
+				<Amount>4.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Pizza Dough">
+		<Amount>1.0</Amount>
+		<Unit>SERVING SIZE</Unit>
+		<Ingredients />
+	</Meal>
+	<Meal Name="Pocket Sandwich">
+		<Amount>1.0</Amount>
+		<Unit>SANDWICH</Unit>
+		<Ingredients>
+			<Ingredient Name="Fresh 1 Tomatoes">
+				<Amount>0.33</Amount>
+				<Unit>TOMATO</Unit>
+			</Ingredient>
+			<Ingredient Name="SL 100% Multi Grain 45 calories and delightful">
+				<Amount>2.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Whipped Dressing">
+				<Amount>0.5</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Land O&apos; Frost Premium Old Fashioned Cooked Ham Slices">
+				<Amount>4.0</Amount>
+				<Unit>SLICE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Porkupine meatballs">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Tomato Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Rice">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Jennie-O 90/10 Ground Turkey">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Pot Pie">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Wada Farms Idaho Potatoes">
+				<Amount>2.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Peas and Carrots">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Ckn Broth FF no MSG less Sodium">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>2.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pie Crusts dough">
+				<Amount>0.13</Amount>
+				<Unit>CRUST</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>2.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Potato Soup">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Russet Potaotes">
+				<Amount>10.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+				<Amount>10.0</Amount>
+				<Unit>CARROT</Unit>
+			</Ingredient>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>4.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Wyler&apos;s Ckn Bouillon Cubes">
+				<Amount>6.0</Amount>
+				<Unit>CUBE</Unit>
+			</Ingredient>
+			<Ingredient Name="Blue Bonnet Margarine">
+				<Amount>2.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Protein Oatmeal Banana cookies">
+		<Amount>44.0</Amount>
+		<Unit>COOKIE</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>0.13</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>1.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV 100% Whole Grain Quick Oats">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Butter unsalted">
+				<Amount>2.67</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="All Whites 100% Liquid Egg Whites">
+				<Amount>0.13</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>0.33</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="Gem Extra Virgin Olive Oil">
+				<Amount>2.67</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Banana Small (6&quot;-6 7/8&quot;)">
+				<Amount>4.0</Amount>
+				<Unit>BANANA</Unit>
+			</Ingredient>
+			<Ingredient Name="Body Fortress Vanilla Whey Protein">
+				<Amount>1.0</Amount>
+				<Unit>SCOOP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Protein Oatmeal Peach cookies">
+		<Amount>41.0</Amount>
+		<Unit>COOKIE</Unit>
+		<Ingredients>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>1.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>0.13</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV 100% Whole Grain Quick Oats">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Butter unsalted">
+				<Amount>2.67</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="All Whites 100% Liquid Egg Whites">
+				<Amount>0.13</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>0.33</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="Gem Extra Virgin Olive Oil">
+				<Amount>2.67</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Sliced Peaches No Sugar Added">
+				<Amount>1.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Body Fortress Vanilla Whey Protein">
+				<Amount>1.0</Amount>
+				<Unit>SCOOP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Protein Oatmeal cookies">
+		<Amount>38.0</Amount>
+		<Unit>COOKIE</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>0.13</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Unsweetened Applesauce">
+				<Amount>0.67</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>1.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>0.33</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="All Whites 100% Liquid Egg Whites">
+				<Amount>0.13</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Body Fortress Vanilla Whey Protein">
+				<Amount>1.0</Amount>
+				<Unit>SCOOP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Butter unsalted">
+				<Amount>2.67</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV 100% Whole Grain Quick Oats">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Gem Extra Virgin Olive Oil">
+				<Amount>2.67</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Pudding">
+		<Amount>2.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="Pudding SF any Flavor">
+				<Amount>1.0</Amount>
+				<Unit>PACKAGE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>2.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Rebaked Potatoes">
+		<Amount>4.0</Amount>
+		<Unit>POTATOE</Unit>
+		<Ingredients>
+			<Ingredient Name="Russet Potaotes">
+				<Amount>4.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Sour Cream">
+				<Amount>6.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Country Crock Light Spread Butter">
+				<Amount>3.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Rice, Ckn Flavored">
+		<Amount>3.0</Amount>
+		<Unit>CUP</Unit>
+		<Ingredients>
+			<Ingredient Name="Calories">
+				<Amount>0.1</Amount>
+				<Unit>MISC</Unit>
+			</Ingredient>
+			<Ingredient Name="Rice">
+				<Amount>3.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Shepherd&apos;s Pie">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Tomato Soup">
+				<Amount>0.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Russet Potaotes">
+				<Amount>1.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mild Cheddar Cheese Shredded">
+				<Amount>0.13</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Peas and Carrots">
+				<Amount>0.67</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Jennie-O 90/10 Ground Turkey">
+				<Amount>2.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Spaghetti">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Hunts Garlic &amp; Herb Spaghetti Sauce">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Thin Spaghetti Whole Wheat &amp; Grain">
+				<Amount>2.33</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Lean Ground Beef 93/7">
+				<Amount>2.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Spaghetti Carbonarra">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Blue Bonnet Margarine">
+				<Amount>4.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>3.0</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Thin Spaghetti">
+				<Amount>1.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Spiral cut ham">
+				<Amount>1.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Stew">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Tomato Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+				<Amount>3.0</Amount>
+				<Unit>CARROT</Unit>
+			</Ingredient>
+			<Ingredient Name="Wada Farms Idaho Potatoes">
+				<Amount>4.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Cream of Mushroom Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Strogenoff / Sauce">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV FF Sour Cream">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Cream of Mushroom Soup">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Roast Beef w/ Gravy">
+				<Amount>1.0</Amount>
+				<Unit>CAN</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Stuffed Shells">
+		<Amount>14.0</Amount>
+		<Unit>PIECE</Unit>
+		<Ingredients>
+			<Ingredient Name="GV Jumbo Shells">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Honeysuckle White Freshground Turkey (93/7)">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Onion">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Hunts Garlic &amp; Herb Spaghetti Sauce">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Cottage Cheese">
+				<Amount>1.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Sour Cream">
+				<Amount>6.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV 100% Parmesan Grated Cheese">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Sweet and Sour Chicken">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Kroger Sweet and Sour Mix">
+				<Amount>12.0</Amount>
+				<Unit>TEASPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Boneless, Skinless Ckn Breasts">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Soy Sauce">
+				<Amount>2.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Canola Oil">
+				<Amount>1.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Heinz Tomato Ketchup">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>0.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Canned Pineapple Chunks">
+				<Amount>1.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Taco - 1 soft/salad">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV FF Sour Cream">
+				<Amount>1.5</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Fresh 1 Tomatoes">
+				<Amount>0.33</Amount>
+				<Unit>TOMATO</Unit>
+			</Ingredient>
+			<Ingredient Name="Jennie-O 90/10 Ground Turkey">
+				<Amount>2.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Marketside Romaine Salad">
+				<Amount>3.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Marketside Fresh Spinach">
+				<Amount>2.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Taco Lettuce Wraps">
+		<Amount>7.0</Amount>
+		<Unit>LEAF</Unit>
+		<Ingredients>
+			<Ingredient Name="Butter Lettuce 7 leaves = 3 oz">
+				<Amount>3.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Jennie-O 90/10 Ground Turkey">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Cnunky Salsa">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Sour Crm">
+				<Amount>7.0</Amount>
+				<Unit>TEASPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Taco Salad w/o chips">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Fresh 1 Tomatoes">
+				<Amount>0.75</Amount>
+				<Unit>TOMATO</Unit>
+			</Ingredient>
+			<Ingredient Name="GV FF Sour Cream">
+				<Amount>2.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Marketside Romaine Salad">
+				<Amount>3.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Lean Ground Beef 93/7">
+				<Amount>2.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Taco Seasoned Ground Turkey">
+		<Amount>4.0</Amount>
+		<Unit>OUNCE</Unit>
+		<Ingredients>
+			<Ingredient Name="Honeysuckle White Freshground Turkey (93/7)">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Western Family Taco Seasoning Mix">
+				<Amount>2.0</Amount>
+				<Unit>TEASPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Tater Tot Casserol">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="GV FF Milk">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Cream of Mushroom Soup">
+				<Amount>0.33</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Mozzarells Chs Shredded">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+				<Amount>0.5</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Russet Potaotes">
+				<Amount>1.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="Lean Ground Beef 93/7">
+				<Amount>2.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Kroger Peas and Carrots">
+				<Amount>0.67</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="Zucchini bread">
+		<Amount>1.0</Amount>
+		<Unit>CAKE</Unit>
+		<Ingredients>
+			<Ingredient Name="GV All Purpose Flour">
+				<Amount>3.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Cane Sugar">
+				<Amount>2.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Mtn Rage Farmers Mkt Lrg Grade AA Egg">
+				<Amount>3.0</Amount>
+				<Unit>EGG</Unit>
+			</Ingredient>
+			<Ingredient Name="Zucchini">
+				<Amount>3.0</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Canola Oil">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Unsweetened Applesauce">
+				<Amount>0.75</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="calzone 2/3">
+		<Amount>22.0</Amount>
+		<Unit>PIECE</Unit>
+		<Ingredients>
+			<Ingredient Name="Calzone Dough">
+				<Amount>0.67</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="homemade french fries">
+		<Amount>1.0</Amount>
+		<Unit>MEAL</Unit>
+		<Ingredients>
+			<Ingredient Name="Russet Potaotes">
+				<Amount>1.0</Amount>
+				<Unit>POTATOE</Unit>
+			</Ingredient>
+			<Ingredient Name="GV Pure Canola Oil">
+				<Amount>0.5</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+	<Meal Name="mini meatloaves">
+		<Amount>6.0</Amount>
+		<Unit>PIECE</Unit>
+		<Ingredients>
+			<Ingredient Name="Honeysuckle White Freshground Turkey (93/7)">
+				<Amount>4.0</Amount>
+				<Unit>OUNCE</Unit>
+			</Ingredient>
+			<Ingredient Name="Heinz Tomato Ketchup">
+				<Amount>1.0</Amount>
+				<Unit>TABLESPOON</Unit>
+			</Ingredient>
+			<Ingredient Name="All Whites 100% Liquid Egg Whites">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="GV 100% Whole Grain Quick Oats">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="Onion">
+				<Amount>0.25</Amount>
+				<Unit>CUP</Unit>
+			</Ingredient>
+			<Ingredient Name="BBQ Sauce">
+				<Amount>0.1</Amount>
+				<Unit>MEAL</Unit>
+			</Ingredient>
+		</Ingredients>
+	</Meal>
+</Meals>

@@ -1,0 +1,20 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Killer Candy">
+			<Amount>100.0</Amount>
+			<Unit>SERVING SIZE</Unit>
+		</Ingredient>
+		<Ingredient Name="BC Super Moist French Vanilla Cake Mix">
+			<Amount>0.08</Amount>
+			<Unit>PACKAGE</Unit>
+		</Ingredient>
+		<Ingredient Name="Baking Mix">
+			<Amount>0.33</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Hodgson Mill Milled Flax Seed">
+			<Amount>2.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

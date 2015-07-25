@@ -1,0 +1,64 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>3.0</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Body Fortress Vanilla Whey Protein">
+			<Amount>0.75</Amount>
+			<Unit>SCOOP</Unit>
+		</Ingredient>
+		<Ingredient Name="Apple">
+			<Amount>1.0</Amount>
+			<Unit>APPLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Large (8&quot;-8 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Peach Fresh Medium 2-2/3 &quot; diameter">
+			<Amount>1.0</Amount>
+			<Unit>FRUIT</Unit>
+		</Ingredient>
+		<Ingredient Name="Strawberry Medium (1 1/4&quot; dia.)">
+			<Amount>9.0</Amount>
+			<Unit>STRAWBERRY</Unit>
+		</Ingredient>
+		<Ingredient Name="Equate Fiber Therapy SF Orange">
+			<Amount>1.0</Amount>
+			<Unit>TEASPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Greek Nonfat Yogurt">
+			<Amount>1.0</Amount>
+			<Unit>CONTAINER</Unit>
+		</Ingredient>
+		<Ingredient Name="Fresh Salad Kit Cobb Salad">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Beef Square Ravioli">
+			<Amount>4.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Five Cheese Ravioli">
+			<Amount>4.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="Hunts Garlic &amp; Herb Spaghetti Sauce">
+			<Amount>0.2</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Homemade Icecream">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Light Whipped Topping">
+			<Amount>6.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV FF Milk">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Large (8&quot;-8 7/8&quot;)">
+			<Amount>0.5</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Ocean Wave Popcorn Shrimp">
+			<Amount>8.0</Amount>
+			<Unit>PIECE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Battered Fish Fillets">
+			<Amount>1.0</Amount>
+			<Unit>FILLET</Unit>
+		</Ingredient>
+		<Ingredient Name="Pizza Dough">
+			<Amount>0.25</Amount>
+			<Unit>SERVING SIZE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Pizza Sauce">
+			<Amount>0.17</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Land O&apos; Frost Premium Oven Roasted Turkey Slices">
+			<Amount>3.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Canned Pineapple Chunks">
+			<Amount>0.13</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

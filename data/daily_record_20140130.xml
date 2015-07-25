@@ -1,0 +1,40 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Green Drink Leftover">
+			<Amount>1.1</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Hawiian Haystacks">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Romaine Lettuce">
+			<Amount>1.0</Amount>
+			<Unit>LEAF</Unit>
+		</Ingredient>
+		<Ingredient Name="Jennie-O 90/10 Ground Turkey">
+			<Amount>4.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.7</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Butter Lettuce 7 leaves = 3 oz">
+			<Amount>3.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Honey Grahams">
+			<Amount>8.0</Amount>
+			<Unit>CRACKER</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

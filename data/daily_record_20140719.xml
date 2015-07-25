@@ -1,0 +1,12 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="A1">
+			<Amount>3.0</Amount>
+			<Unit>OUNCE</Unit>
+		</Ingredient>
+		<Ingredient Name="B2">
+			<Amount>10.0</Amount>
+			<Unit>TOMATO</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

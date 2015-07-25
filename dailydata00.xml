@@ -1,0 +1,3154 @@
+<NutritionManager>
+	<DailyRecords>
+		<DailyRecord>
+			<Date>7/21/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MIXES</Category>
+					<Name>Krusteaz  Buttermilk Pancake Mix</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Country Crock Light Spread Butter</Name>
+					<Amount>5.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Land O' Frost Premium Oven Roasted Turkey Slices</Name>
+					<Amount>4.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Kroger Sour Crm</Name>
+					<Amount>4.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Southwest-Style Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>7/17/2014</Date>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Mtn Rage Farmers Mkt Lrg Grade AA Egg</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Southwest-Style Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Homemade Mashed Potaotes</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>2.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>GV Golden Sweet Whole Kernel Corn</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>7/9/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.4</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.75</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>4.4</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>7/8/2014</Date>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>WF Pineapple Tidbits</Name>
+					<Amount>2.25</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MIXES</Category>
+					<Name>Slim & Sassy Trim Shake, vanilla</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Beet Greens, raw</Name>
+					<Amount>2.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>4.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Fresh Spinach</Name>
+					<Amount>3.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>7/7/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.95</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>7/6/2014</Date>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Cabbage Soup</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SNACKS</Category>
+					<Name>GV Yellow Popcorn Kernals</Name>
+					<Amount>3.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Blue Bonnet Margarine</Name>
+					<Amount>2.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>7/5/2014</Date>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Cabbage Soup</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>8.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>7/4/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Hamburger</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.4</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Mtn Rage Farmers Mkt Lrg Grade AA Egg</Name>
+					<Amount>4.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>7/2/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>WW SO Ckn Enchilatas Suiza</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>7.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>7/1/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.33</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Cabbage Rolls</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Cabbage Roll Sauce</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Instant Brown Rice (Uncooked)</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>5.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>4.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/30/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.75</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.75</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.75</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>4.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV Light Whipped Topping</Name>
+					<Amount>11.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.4</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/29/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Ckn Divan</Name>
+					<Amount>0.3</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Kroger Peas and Carrots</Name>
+					<Amount>0.67</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>GV Golden Sweet Whole Kernel Corn</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>Rice</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SNACKS</Category>
+					<Name>Jolly Time 100 calorie popcorn</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/28/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>4.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Honey Grahams</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV Light Whipped Topping</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.15</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SNACKS</Category>
+					<Name>Pop Weaver Light butter</Name>
+					<Amount>7.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/27/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.2</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Laughing Cow Light Crmy Swiss</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>6.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.2</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/26/2014</Date>
+				<Ingredient>
+					<Category>CEREAL</Category>
+					<Name>GV Fruit & Cream Oatmeal Variety Pack ( Strw, Bue, Peach, Banana)</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>0.75</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Mariani Yogurt Covered Rasins</Name>
+					<Amount>1.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Cobb Salad w/ all dressing</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Spaghetti</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Kroger French sliced Green Beans</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/25/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>Michelina's LG Chipotle Ckn & Rice</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/24/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Tater Tot Casserol</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Kroger Mozzarells Chs Shredded</Name>
+					<Amount>0.25</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.4</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/23/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Cobb Salad w/ all dressing</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>BBQ Sauce</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Kroger French sliced Green Beans</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Russet Potaotes</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>2.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.4</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.15</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/22/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Campbell's Cheesy Ckn</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>GV Golden Sweet Whole Kernel Corn</Name>
+					<Amount>0.75</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Instant Brown Rice (Uncooked)</Name>
+					<Amount>0.25</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/21/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Campbell's Cheesy Ckn</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Instant Brown Rice (Uncooked)</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>GV Golden Sweet Whole Kernel Corn</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/20/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>10.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/19/2014</Date>
+				<Ingredient>
+					<Category>CEREAL</Category>
+					<Name>GV Fruit & Cream Oatmeal Variety Pack ( Strw, Bue, Peach, Banana)</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>10.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/18/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.6</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>4.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Kroger Mozzarells Chs Shredded</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/17/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.15</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Ckn Tetrizzini / Sauce</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>PASTA</Category>
+					<Name>GV Whole Wheat Rotini</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>2.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Kroger Peas and Carrots</Name>
+					<Amount>0.67</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>Michelina's LG Chsy Ckn Ranch</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>GV Crystal Light Drink Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/16/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Sandwich, lettuce instead of bread</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Land O' Frost Premium Old Fashioned Cooked Ham Slices</Name>
+					<Amount>4.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.15</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/15/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>4.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Calzones small beef & chdr chs</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Calzones small Ckn, and Moz chs</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/14/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Land O' Frost Premium Oven Roasted Turkey Slices</Name>
+					<Amount>6.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV Mozzarells Chs slices</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Green Leaf Lettuce</Name>
+					<Amount>1.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Fresh 1 Tomatoes</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>0.25</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>8.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/13/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Pocket Sandwich</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/12/2014</Date>
+				<Ingredient>
+					<Category>CEREAL</Category>
+					<Name>GV Fruit & Cream Oatmeal Variety Pack ( Strw, Bue, Peach, Banana)</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Pizza Rolls</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/11/2014</Date>
+				<Ingredient>
+					<Category>CEREAL</Category>
+					<Name>GV Fruit & Cream Oatmeal Variety Pack ( Strw, Bue, Peach, Banana)</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>Michelina's LG 3 Cheese Ckn</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.53</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>2.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>GV Golden Sweet Whole Kernel Corn</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/10/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Spaghetti</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Kroger French sliced Green Beans</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>Michelina's LG 3 Cheese Ckn</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>GV Crystal Light Drink Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/9/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>0.4</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Green Leaf Lettuce</Name>
+					<Amount>1.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Fresh 1 Tomatoes</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Land O' Frost Premium Old Fashioned Cooked Ham Slices</Name>
+					<Amount>5.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.7</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Kroger Mozzarells Chs Shredded</Name>
+					<Amount>0.25</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.3</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>GV Golden Sweet Whole Kernel Corn</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.8</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/6/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/5/2014</Date>
+				<Ingredient>
+					<Category>CEREAL</Category>
+					<Name>GV Fruit & Cream Oatmeal Variety Pack ( Strw, Bue, Peach, Banana)</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Laughing Cow Light Crmy Swiss</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.9</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>GV Golden Sweet Whole Kernel Corn</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Taco Lettuce Wraps</Name>
+					<Amount>7.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>6.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/4/2014</Date>
+				<Ingredient>
+					<Category>CEREAL</Category>
+					<Name>GV Fruit & Cream Oatmeal Variety Pack ( Strw, Bue, Peach, Banana)</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Pot Pie</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>5.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/3/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Carnation Instant Breakfast Essentials drink mix</Name>
+					<Amount>0.4</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Laughing Cow Light Crmy Swiss</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>Michelina's LG Creamy Rigatoni w/ Broccoli and Ckn</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Honey Grahams</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SWEETS</Category>
+					<Name>Kraft Jet-Puffed mini Marshmellows</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.15</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/2/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>4.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MIXES</Category>
+					<Name>Body Fortress Choco PB Whey Protein</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Laughing Cow Light Crmy Swiss</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>6.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SNACKS</Category>
+					<Name>Jolly Time 100 calorie popcorn</Name>
+					<Amount>0.33</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Fresh Corn on the Cob 1 ear</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Instant Mashed Potatoes w/ Light Margarine</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>2.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Honey Grahams</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>6/1/2014</Date>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>Rice</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Campbell's Cheesy Ckn</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Fresh Corn on the Cob 1 ear</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Country Crock Light Spread Butter</Name>
+					<Amount>1.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/31/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Fresh Salad Kit Cobb Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Campbell's Cheesy Ckn</Name>
+					<Amount>0.17</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Fresh Corn on the Cob 1 ear</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>Rice</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/30/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>FULLbar Cocoa Chip</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.3</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Pocket Sandwich Lettuce Wrap</Name>
+					<Amount>1.0</Amount>
+					<Unit>SERVING SIZE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Strawberry Kiwi Protein Water mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/29/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Kellogg's to go drink mix vanilla or chocolate</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Sour Cream</Name>
+					<Amount>4.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>6.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.05</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Butter Lettuce 7 leaves = 3 oz</Name>
+					<Amount>3.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Fresh 1 Tomatoes</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Laughing Cow Light Crmy Swiss</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.1</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Honey Grahams</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Kroger Whipped Topping Xtra Creamy</Name>
+					<Amount>10.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>BAKING</Category>
+					<Name>Hershey's Milk Chocolate Chips</Name>
+					<Amount>2.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/28/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Kroger Slim Rite french vanilla shake mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>FULLbar Cocoa Chip</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>COLD SWEETS</Category>
+					<Name>Kroger Vanilla Ice Cream</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Kroger Whipped Topping Xtra Creamy</Name>
+					<Amount>10.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Honey Grahams</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.75</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/27/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Pie (Pudding)</Name>
+					<Amount>0.11</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>COLD SWEETS</Category>
+					<Name>Kroger Vanilla Ice Cream</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Taco Lettuce Wraps</Name>
+					<Amount>7.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>FULLbar Choco Peanut Butter</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/26/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Kellogg's to go drink mix vanilla or chocolate</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Hamburger</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.75</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Pie (Pudding)</Name>
+					<Amount>0.11</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>COLD SWEETS</Category>
+					<Name>Kroger Vanilla Ice Cream</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.9</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/25/2014</Date>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>GV Unsweetened Applesauce</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.53</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Kellogg's to go drink mix vanilla or chocolate</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Lasagna or Manicotti</Name>
+					<Amount>0.13</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Kroger French sliced Green Beans</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SNACKS</Category>
+					<Name>Fiber One Protein Caramel Nut</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/24/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Kellogg's to go drink mix vanilla or chocolate</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Lasagna or Manicotti</Name>
+					<Amount>0.13</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Kroger Peas and Carrots</Name>
+					<Amount>0.67</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/22/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Kellogg's to go drink mix vanilla or chocolate</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>BLT</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/21/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.36</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Kellogg's to go drink mix vanilla or chocolate</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/20/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Kellogg's to go drink mix vanilla or chocolate</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Cobb Salad w/ all dressing</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>GV Crystal Light Drink Mix</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Spaghetti</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>GV Golden Sweet Whole Kernel Corn</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Laughing Cow Crmy Swiss</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Country Crock Light Spread Butter</Name>
+					<Amount>1.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/19/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>Kellogg's to go drink mix vanilla or chocolate</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Fresh Salad Kit Cobb Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Pizza Rolls</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/16/2014</Date>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>GV Unsweetened Applesauce</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>7.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>FRESH Salad Kit Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/15/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>FULLbar Choco Peanut Butter</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>FRESH Salad Kit Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>4.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/13/2014</Date>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Asparagus</Name>
+					<Amount>7.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Fresh Spinach</Name>
+					<Amount>6.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Banana Meduim (7"-7 7/8")</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Mandarin Oranges canned</Name>
+					<Amount>1.25</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Wawona Fzn Mango, Papaya, Strawb & Pineapple</Name>
+					<Amount>4.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MIXES</Category>
+					<Name>Body Fortress Vanilla Whey Protein</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.3</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Pink Lemonade Protein Water Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>5/12/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>10.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/29/2014</Date>
+				<Ingredient>
+					<Category>B/L/D</Category>
+					<Name>FULLbar Cocoa Chip</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>GV Unsweetened Applesauce</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>FRESH Salad Kit Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Strawberry Kiwi Protein Water mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Cutie California Clementine orange</Name>
+					<Amount>1.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Ckn Divan</Name>
+					<Amount>0.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>Rice</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>7.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/28/2014</Date>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Apple</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>SL 100% Multi Grain 45 calories and delightful</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Mtn Rage Farmers Mkt Lrg Grade AA Egg</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>0.75</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Spaghetti</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>5.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/27/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>Frigo Mozzarella String Cheese</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>GV Unsweetened Applesauce</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Mtn Rage Farmers Mkt Lrg Grade AA Egg</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Mtn Rage Farmers Mkt Lrg Grade AA Egg</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>1.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/25/2014</Date>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Fresh Salad Kit Cobb Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SNACKS</Category>
+					<Name>Cheetos</Name>
+					<Amount>21.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>8.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/24/2014</Date>
+				<Ingredient>
+					<Category>CEREAL</Category>
+					<Name>GV 100% Whole Grain Quick Oats</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>GV Sliced Peaches No Sugar Added</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>0.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Strawberry slices</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>BAKING</Category>
+					<Name>GV Pure Cane Sugar</Name>
+					<Amount>2.0</Amount>
+					<Unit>TEASPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Ham Cheese and Potato Casserol</Name>
+					<Amount>0.13</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>8.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/23/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>5.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Honey Grahams</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Spiral cut ham</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>Spiral cut ham</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>0.5</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/22/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>9.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/15/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SPECIAL K</Category>
+					<Name>Strawberry Kiwi Protein Water mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SWEET CONDIMENTS</Category>
+					<Name>Kroger Nutella</Name>
+					<Amount>4.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Honey Grahams</Name>
+					<Amount>2.25</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV Light Whipped Topping</Name>
+					<Amount>8.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/14/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Honey Grahams</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SNACKS</Category>
+					<Name>Cheetos</Name>
+					<Amount>21.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>FRESH Salad Kit Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>SWEET CONDIMENTS</Category>
+					<Name>Kroger Nutella</Name>
+					<Amount>4.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/10/2014</Date>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Green Drink Leftover</Name>
+					<Amount>3.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>FRESH Salad Kit Chef Salad</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>4/9/2014</Date>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Fresh Spinach</Name>
+					<Amount>2.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Romaine Lettuce</Name>
+					<Amount>7.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Carrot 7"long 1.25"diameter</Name>
+					<Amount>5.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>WF Pineapple Tidbits</Name>
+					<Amount>0.75</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>GV Frozen Blueberries</Name>
+					<Amount>1.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Banana Meduim (7"-7 7/8")</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>GV Pear Halves 100% juice</Name>
+					<Amount>1.75</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DRINKS</Category>
+					<Name>GV Crystal Light Drink Mix</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAT</Category>
+					<Name>GV Boneless, Skinless Ckn Breasts</Name>
+					<Amount>4.0</Amount>
+					<Unit>OUNCE</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV Mozzarells Chs slices</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>BAKING</Category>
+					<Name>Hershey's Milk Chocolate Chips</Name>
+					<Amount>4.0</Amount>
+					<Unit>TABLESPOON</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>GRAINS</Category>
+					<Name>GV Honey Grahams</Name>
+					<Amount>2.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>DAIRY</Category>
+					<Name>GV FF Milk</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MEAL</Category>
+					<Name>Spaghetti</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+		<DailyRecord>
+			<Date>3/22/2014</Date>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Romaine Lettuce</Name>
+					<Amount>5.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Glory Kale Greens</Name>
+					<Amount>2.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>VEGGIES</Category>
+					<Name>Marketside Fresh Spinach</Name>
+					<Amount>3.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MIXES</Category>
+					<Name>Body Fortress Strawberry Whey Protein</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Mandarin Oranges canned</Name>
+					<Amount>0.7</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Wawona Fzn Mango, Papaya, Strawb & Pineapple</Name>
+					<Amount>1.0</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>GV Sliced Peaches No Sugar Added</Name>
+					<Amount>2.5</Amount>
+					<Unit>CUP</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>FRUIT</Category>
+					<Name>Banana Meduim (7"-7 7/8")</Name>
+					<Amount>1.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+				<Ingredient>
+					<Category>MISC</Category>
+					<Name>Calories</Name>
+					<Amount>5.0</Amount>
+					<Unit>OTHER</Unit>
+				</Ingredient>
+		</DailyRecord>
+	</DailyRecords>
+</NutritionManager>

@@ -1,0 +1,40 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="GV FF Milk">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Meduim (7&quot;-7 7/8&quot;)">
+			<Amount>0.5</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Fruit Smiles">
+			<Amount>1.0</Amount>
+			<Unit>PACKAGE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Golden Sweet Whole Kernel Corn">
+			<Amount>0.5</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Oroweat 100% Whole Wheat English Muffin">
+			<Amount>0.5</Amount>
+			<Unit>MUFFIN</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Pizza Sauce">
+			<Amount>0.1</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Land O&apos; Frost Premium Oven Roasted Turkey Slices">
+			<Amount>1.0</Amount>
+			<Unit>SLICE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Canned Pineapple Chunks">
+			<Amount>0.13</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV Fruit Smiles">
+			<Amount>1.0</Amount>
+			<Unit>PACKAGE</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

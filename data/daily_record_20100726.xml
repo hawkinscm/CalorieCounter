@@ -1,0 +1,24 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Oven Baked Chicken">
+			<Amount>2.0</Amount>
+			<Unit>CHICKEN</Unit>
+		</Ingredient>
+		<Ingredient Name="Wada Farms Idaho Potatoes">
+			<Amount>1.1</Amount>
+			<Unit>POTATOE</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>0.25</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Blue Bonnet Light Margarine">
+			<Amount>1.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.6</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

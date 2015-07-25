@@ -1,0 +1,36 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Calzones small Ckn, and Moz chs">
+			<Amount>1.0</Amount>
+			<Unit>ROLL</Unit>
+		</Ingredient>
+		<Ingredient Name="Calzones small beef &amp; chdr chs">
+			<Amount>1.0</Amount>
+			<Unit>ROLL</Unit>
+		</Ingredient>
+		<Ingredient Name="Carrot 7&quot;long 1.25&quot;diameter">
+			<Amount>1.0</Amount>
+			<Unit>CARROT</Unit>
+		</Ingredient>
+		<Ingredient Name="Banana Meduim (7&quot;-7 7/8&quot;)">
+			<Amount>1.0</Amount>
+			<Unit>BANANA</Unit>
+		</Ingredient>
+		<Ingredient Name="Carnation Instant Breakfast Essentials drink mix">
+			<Amount>0.4</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="GV FF Milk">
+			<Amount>1.0</Amount>
+			<Unit>CUP</Unit>
+		</Ingredient>
+		<Ingredient Name="Calories">
+			<Amount>0.75</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Marketside Chef Salad">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

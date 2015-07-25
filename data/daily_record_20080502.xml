@@ -1,0 +1,12 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Krusteaz Light &amp; Crispy Belgian Waffles">
+			<Amount>1.25</Amount>
+			<Unit>WAFFLE</Unit>
+		</Ingredient>
+		<Ingredient Name="Country Crock Light Spread Butter">
+			<Amount>2.0</Amount>
+			<Unit>TABLESPOON</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>

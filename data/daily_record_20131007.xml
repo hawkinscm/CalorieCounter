@@ -1,0 +1,12 @@
+<DailyRecord>
+	<Ingredients>
+		<Ingredient Name="Calories">
+			<Amount>3.02</Amount>
+			<Unit>MISC</Unit>
+		</Ingredient>
+		<Ingredient Name="Tater Tot Casserol">
+			<Amount>1.0</Amount>
+			<Unit>MEAL</Unit>
+		</Ingredient>
+	</Ingredients>
+</DailyRecord>
